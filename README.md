@@ -16,6 +16,6 @@ It serves as a simple learning project, applying ML to sports analytics.
 ## Data
 
 The dataset used in this project is **International football results from 1872 to 2017**, available on Kaggle:  
-👉 [International football results dataset (Kaggle)](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017?resource=download)
+-> [International football results dataset (Kaggle)](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017?resource=download)
 
 This dataset contains over 40,000 **international** football match results, including teams, dates, and scores.
